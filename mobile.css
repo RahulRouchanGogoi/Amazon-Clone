@@ -53,13 +53,63 @@ body {
   border: 0.1px;
 }
 
+/**sign in box mobile**/
+.signin-mob {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.user-icon-mob {
+  font-size: 1.5rem;
+  margin-bottom: 2.85rem;
+  margin-left: 8.5rem;
+}
+
+.carticon-mob {
+  position: relative;
+  font-size: 1.6rem;
+  padding-bottom: 2.8rem;
+  padding-left: 1rem;
+}
+
+.zero-icon-mob {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  border-radius: 50%;
+  position: absolute;
+  display: flex;
+  font-size: 0.7rem;
+  margin-left: 0.8rem;
+  margin-top: -1.65rem;
+  color: #ff9900;
+}
+
+#signin1-mob {
+  padding-bottom: 2rem;
+  margin-left: 6rem;
+  width: 30px;
+  white-space: nowrap; /* Prevents text from breaking into two lines */
+  display: inline-block;
+}
+
 /** box 2 **/
 
 .user-icon {
-  display: flex;
   font-size: 23px;
-  margin-bottom: 23rem;
-  margin-left: 14.8rem;
+  display: flex; /* Helps align children */
+  align-items: center;
+  margin-bottom: 2rem;
+  margin-left: 10rem;
+}
+
+#signin1-mob {
+  font-size: 0.7rem;
+  margin-bottom: 1rem;
+  margin-right: -7rem;
 }
 
 .address-icon {
@@ -179,11 +229,7 @@ body {
 }
 
 #signin1 {
-  display: block;
-  font-size: 13px;
-  color: #dddddd;
-  margin-bottom: 3rem;
-  margin-left: -1.3rem;
+  display: none;
 }
 
 span {
@@ -223,12 +269,7 @@ span {
 }
 
 .cart-icon {
-  position: absolute;
-  display: flex;
-  align-items: center;
-  font-size: 25px;
-  margin-bottom: 2.9rem;
-  margin-right: 0.3rem;
+  display: none;
 }
 
 .cart {
@@ -236,12 +277,7 @@ span {
 }
 
 .zero-icon {
-  position: absolute;
-  display: flex;
-  font-size: 10px;
-  color: #ff9900;
-  right: 32%;
-  top: 3.6px;
+  display: none;
 }
 
 /** panel**/
