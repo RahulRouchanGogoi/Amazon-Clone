@@ -62,12 +62,14 @@ body {
 }
 
 .user-icon-mob {
+  display: flex;
   font-size: 1.5rem;
-  margin-bottom: 2.85rem;
-  margin-left: 8.5rem;
+  margin-bottom: 2.9rem;
+  margin-left: 8.3rem;
 }
 
 .carticon-mob {
+  display: flex;
   position: relative;
   font-size: 1.6rem;
   padding-bottom: 2.8rem;
@@ -84,13 +86,18 @@ body {
   display: flex;
   font-size: 0.7rem;
   margin-left: 0.8rem;
-  margin-top: -1.65rem;
+  margin-top: 0.1rem;
   color: #ff9900;
 }
 
+.signin-1 {
+  display: flex;
+}
+
 #signin1-mob {
+  display: flex;
   padding-bottom: 2rem;
-  margin-left: 6rem;
+  margin-left: 6.2rem;
   width: 30px;
   white-space: nowrap; /* Prevents text from breaking into two lines */
   display: inline-block;
