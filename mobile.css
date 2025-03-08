@@ -57,25 +57,35 @@ body {
 .signin-mob {
   display: flex;
   align-items: center;
-  justify-content: center;
-  gap: 1rem;
+  justify-content: flex-end;
+  width: 100vw; /* Ensures full screen width */
+  padding: 10px 20px;
+  margin-right: -11.5rem;
+  margin-bottom: 2.9rem;
+}
+
+.icons-container {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem; /* Keeps spacing between icons */
 }
 
 .user-icon-mob {
-  position: absolute;
   display: flex;
-  font-size: 1.5rem;
-  margin-bottom: 2.95rem;
-  margin-left: 15.2rem;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  position: relative;
+  cursor: pointer;
 }
 
 .carticon-mob {
-  position: absolute;
   display: flex;
-
+  align-items: center;
+  justify-content: center;
   font-size: 1.6rem;
-  padding-bottom: 2.8rem;
-  padding-left: 19.3rem;
+  position: relative;
+  cursor: pointer;
 }
 
 .zero-icon-mob {
@@ -87,9 +97,10 @@ body {
   position: absolute;
   display: flex;
   font-size: 0.7rem;
-  margin-left: 0.8rem;
-  margin-top: 0.1rem;
+  left: 0.8rem;
+  top: 0.1rem;
   color: #ff9900;
+  cursor: pointer;
 }
 
 .signin-1 {
@@ -97,13 +108,12 @@ body {
 }
 
 #signin1-mob {
-  position: absolute;
   display: flex;
-  margin-top: -1.75rem;
-  margin-left: 7.4rem;
-  width: 30px;
-  white-space: nowrap; /* Prevents text from breaking into two lines */
-  display: inline-block;
+  align-items: center;
+  font-size: 1rem;
+  white-space: nowrap;
+  padding-right: 7.35rem;
+  padding-top: 1.3rem;
 }
 
 /** box 2 **/
