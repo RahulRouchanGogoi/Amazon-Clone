@@ -386,8 +386,9 @@ span {
   background-color: white;
   color: black;
   height: 40px;
-  width: 97%;
+  width: 95%;
   margin-bottom: 4rem;
+  padding-left: 10px;
 }
 
 .hero-message p {
