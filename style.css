@@ -59,6 +59,30 @@ body {
   display: none;
 }
 
+.signin-mob {
+  display: none;
+}
+
+.user-icon-mob {
+  display: none;
+}
+
+.carticon-mob {
+  display: none;
+}
+
+.zero-icon-mob {
+  display: none;
+}
+
+.signin1-mob {
+  display: none;
+}
+
+.signin-1 {
+  display: none;
+}
+
 .address-first {
   color: #cccccc;
   font-size: 12px;
@@ -254,6 +278,16 @@ span {
   font-weight: 700;
 }
 
+.zero-icon-desk {
+  position: absolute;
+  display: flex;
+  padding-left: 1.01rem;
+  padding-bottom: 0.7rem;
+  font-size: 1rem;
+  font-weight: 700;
+
+  color: #ff9900;
+}
 .zero-icon {
   position: absolute;
   display: flex;
