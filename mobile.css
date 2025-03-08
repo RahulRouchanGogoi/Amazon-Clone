@@ -62,18 +62,20 @@ body {
 }
 
 .user-icon-mob {
+  position: absolute;
   display: flex;
   font-size: 1.5rem;
   margin-bottom: 2.9rem;
-  margin-left: 8.3rem;
+  margin-left: 13.8rem;
 }
 
 .carticon-mob {
+  position: absolute;
   display: flex;
-  position: relative;
+
   font-size: 1.6rem;
   padding-bottom: 2.8rem;
-  padding-left: 1rem;
+  padding-left: 18.3rem;
 }
 
 .zero-icon-mob {
@@ -95,8 +97,9 @@ body {
 }
 
 #signin1-mob {
+  position: absolute;
   display: flex;
-  padding-bottom: 2rem;
+  margin-top: -1.75rem;
   margin-left: 6.2rem;
   width: 30px;
   white-space: nowrap; /* Prevents text from breaking into two lines */
