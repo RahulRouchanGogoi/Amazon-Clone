@@ -551,6 +551,10 @@ span {
   font-size: 21px;
 }
 
+.shop-section .box4 {
+  display: flex;
+}
+
 /**shop-section2**/
 
 .shop-section2 {
