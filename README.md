@@ -33,15 +33,25 @@ This is a frontend clone of Amazon, built using HTML and CSS. The project replic
 * tablet.css – Overrides style.css with media queries for tablet screens.
 
 * mobile.css – Overrides style.css with media queries for mobile screens.
-## Screenshots
+## 📸 Screenshots
 
-1.![Interface_Upload_View](https://github.com/RahulRouchanGogoi/PDF-Insight-Data-Visualizer/blob/main/Image1.png)
+### 🖥️ Laptop View
+- **Top Section:** ![Laptop Top](https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/Photos/laptop-top.png)
+- **Middle Section-1:** ![Laptop Middle-1](https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/Photos/laptop-mid-1.png)
+- **Middle Section-2:** ![Laptop Middle-2](https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/Photos/laptop-mid-2.png)
+- **Bottom Section-1:** ![Laptop Bottom-1](https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/Photos/laptop-bottom-1.png)
+- **Bottom Section-2:** ![Laptop Bottom-2](https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/Photos/laptop-bottom-2.png)
 
-2.![Text_Extraction_and_Download](https://github.com/RahulRouchanGogoi/PDF-Insight-Data-Visualizer/blob/main/Image2.png)
+### 📱 Tablet View
+- **Top Section:** ![Tablet Top](https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/Photos/tablet-top.png)
+- **Middle Section:** ![Tablet Middle](https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/Photos/tablet-mid.png)
+- **Bottom Section:** ![Tablet Bottom](https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/Photos/tablet-bottom.png)
 
-3.![Age_Distribution_Chart](https://github.com/RahulRouchanGogoi/PDF-Insight-Data-Visualizer/blob/main/Image3.png)
+### 📲 Mobile View
+- **Top Section:** ![Mobile Top](https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/Photos/mobile-top.jpg)
+- **Middle Section:** ![Mobile Middle](https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/Photos/mobile-mid.jpg)
+- **Bottom Section:** ![Mobile Bottom](https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/Photos/mobile-bottom.jpg)
 
-4.![Chart_Saved_as_PDF](https://github.com/RahulRouchanGogoi/PDF-Insight-Data-Visualizer/blob/main/Image4.png)
 
 
 
