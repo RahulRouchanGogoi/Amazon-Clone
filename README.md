@@ -57,9 +57,8 @@ This is a frontend clone of Amazon, built using HTML and CSS. The project replic
 
 ## Demo
 
-(https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/Demo.gif)
-
-Demonstration link: https://rahulrouchangogoi.github.io/Amazon-Clone/
+![Demo](https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/Demo.gif)  
+[Live Demonstration](https://rahulrouchangogoi.github.io/Amazon-Clone/)
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-rouchan-gogoi-04072001r)
