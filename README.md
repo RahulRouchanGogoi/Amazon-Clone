@@ -57,7 +57,7 @@ This is a frontend clone of Amazon, built using HTML and CSS. The project replic
 
 ## Demo
 
-https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/Demo.gif
+(https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/Demo.gif)
 
 Demonstration link: https://rahulrouchangogoi.github.io/Amazon-Clone/
 ## 🔗 Links
