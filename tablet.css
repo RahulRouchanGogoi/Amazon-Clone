@@ -475,8 +475,8 @@ span {
 }
 
 .innerbox1 {
-  width: 120px;
-  height: 125px;
+  width: 115px;
+  height: 123px;
   background-color: lightgray;
   display: flex;
   flex-direction: column;
