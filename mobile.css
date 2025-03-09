@@ -552,7 +552,7 @@ span {
 }
 
 .shop-section .box4 {
-  display: flex;
+  display: block;
 }
 
 /**shop-section2**/
