@@ -521,6 +521,10 @@ span {
   background-color: #e0e0e0;
 }
 
+.shop-section .box4 {
+  display: none;
+}
+
 .box {
   margin-top: 0.1rem;
   height: 393px;
