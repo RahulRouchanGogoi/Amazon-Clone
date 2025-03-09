@@ -31,7 +31,7 @@ This is a frontend clone of Amazon, built using HTML and CSS. The project replic
 
 * style.css – Default styles for larger screens (laptops/desktops).
 * tablet.css – Overrides style.css with media queries for tablet screens.
-
+* miniTab.css – Overrides styles.css specifically for screens between tablets and mobiles.
 * mobile.css – Overrides style.css with media queries for mobile screens.
 ## 📸 Screenshots
 
