@@ -60,6 +60,7 @@ This is a frontend clone of Amazon, built using HTML and CSS. The project replic
 ![Demo](https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/Demo.gif)  
 
 **Scan to Launch** 
+
 ![Scan to launch](https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/QR.png)
 
 [Click to launch](https://rahulrouchangogoi.github.io/Amazon-Clone/)
