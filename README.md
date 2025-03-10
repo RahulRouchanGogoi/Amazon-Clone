@@ -31,7 +31,7 @@ This is a frontend clone of Amazon, built using HTML and CSS. The project replic
 
 * style.css – Default styles for larger screens (laptops/desktops).
 * tablet.css – Overrides style.css with media queries for tablet screens.
-* miniTab.css – Overrides styles.css specifically for screens between tablets and mobiles.
+
 * mobile.css – Overrides style.css with media queries for mobile screens.
 ## 📸 Screenshots
 
@@ -57,9 +57,11 @@ This is a frontend clone of Amazon, built using HTML and CSS. The project replic
 
 ## Demo
 
-![Demo Link](https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/Demo.gif)
-[Scan to Launch ](https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/QR.png)
-[Click to Launch ](https://rahulrouchangogoi.github.io/Amazon-Clone/)
+![Demo](https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/Demo.gif)  
+
+[Scan to launch](https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/QR.png)
+
+[Click to launch](https://rahulrouchangogoi.github.io/Amazon-Clone/)
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-rouchan-gogoi-04072001r)
