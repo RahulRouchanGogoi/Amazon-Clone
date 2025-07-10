@@ -46,7 +46,7 @@ This is a frontend clone of Amazon, built using HTML and CSS. The project replic
 ![Scan to launch](https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/QR.png)
 
 [Click to launch](https://amazon-clone-dusky-seven-90.vercel.app/)
-## 🔗 Links
+
 
 
 ## 📸 Screenshots
@@ -72,5 +72,6 @@ This is a frontend clone of Amazon, built using HTML and CSS. The project replic
 
 
 
+## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-rouchan-gogoi-04072001r)
