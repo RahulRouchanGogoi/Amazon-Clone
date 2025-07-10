@@ -65,7 +65,7 @@ This is a frontend clone of Amazon, built using HTML and CSS. The project replic
 
 ![Scan to launch](https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/QR.png)
 
-[Click to launch](https://vercel.com/rahul-rouchan-gogois-projects/guess-the-number-game/dX2pC7Wn15ZTRasn9A9jn2BzG8pR)
+[Click to launch](https://guess-the-number-game-ten-green.vercel.app/)
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-rouchan-gogoi-04072001r)
