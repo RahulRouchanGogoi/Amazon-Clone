@@ -35,6 +35,20 @@ This is a frontend clone of Amazon, built using HTML and CSS. The project replic
 * miniTab.css - Overrides styles.css for a narrower range between tablet and mobile.
 
 * mobile.css – Overrides style.css with media queries for mobile screens.
+
+
+## Demo
+
+![Demo](https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/Demo.gif)  
+
+**Scan to Launch**
+
+![Scan to launch](https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/QR.png)
+
+[Click to launch](https://amazon-clone-dusky-seven-90.vercel.app/)
+## 🔗 Links
+
+
 ## 📸 Screenshots
 
 ### 🖥️ Laptop View
@@ -57,15 +71,6 @@ This is a frontend clone of Amazon, built using HTML and CSS. The project replic
 
 
 
-## Demo
 
-![Demo](https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/Demo.gif)  
-
-**Scan to Launch**
-
-![Scan to launch](https://github.com/RahulRouchanGogoi/Amazon-Clone/blob/main/QR.png)
-
-[Click to launch](https://guess-the-number-game-ten-green.vercel.app/)
-## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-rouchan-gogoi-04072001r)
